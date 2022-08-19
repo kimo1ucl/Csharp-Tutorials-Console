@@ -1,0 +1,8 @@
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\bin\Debug\PlayWithYourConsole.exe.config
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\bin\Debug\PlayWithYourConsole.exe
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\bin\Debug\PlayWithYourConsole.pdb
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\obj\Debug\PlayWithYourConsole.csproj.AssemblyReference.cache
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\obj\Debug\PlayWithYourConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\obj\Debug\PlayWithYourConsole.csproj.CoreCompileInputs.cache
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\obj\Debug\PlayWithYourConsole.exe
+C:\Users\KIMO6746\OneDrive - UCL Erhvervsakademi og Professionshøjskole\51. C#\Tutorials\StarterTutorials\PlayWithYourConsole\obj\Debug\PlayWithYourConsole.pdb
